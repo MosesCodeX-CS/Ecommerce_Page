@@ -1,0 +1,62 @@
+KATTI NATIONALS 2024
+SKILLS COMPETITION
+JUDGING TOOL
+OBSERVATION CHECKLIST
+
+Participant’s Name: ___________________________
+Institution: _________________________________
+Date: _______________________________________
+
+Aspect of sub-criterion
+Requirements/nominal size
+Marks Awarded
+Result or Actual Value
+TASK: E-commerce Website Development
+
+Homepage
+- Designed a homepage showcasing featured products [4] __________
+- Included navigation menus for easy access to product categories, search functionality, and account/login options [6] __________
+- Implemented a responsive design that adapts to different screen sizes and devices [5] __________
+
+Product Pages
+- Created individual product pages with detailed descriptions, images and pricing [8] __________
+- Implemented a product search/filtering feature [4] __________
+- Integrated social media sharing options [3] __________
+
+Shopping Cart
+- Developed a shopping cart system [6] __________
+- Included order summary, shipping options, and payment methods [4] __________
+
+User Accounts and Profiles
+- Created user account functionality for registration, login, and password recovery [6] __________
+- Provided users with the ability to view order history [4] __________
+
+Admin Dashboard
+- Developed an admin dashboard to manage products, orders, customers, and inventory [8] __________
+- Allowed administrators to add/edit/delete products, update inventory levels, and process orders [12] __________
+
+Others
+- Overall user experience and ease of navigation [6] __________
+- Added extra features [4] __________
+
+TOTAL: 80
+
+Skill area: IT Software Solutions for Business
+
+Name of Judge : ______________________________________________
+Phone Number : ______________________________________________
+Signature : _________________________________________________
+Date : ______________________________________________________
+
+Feedback
+____________________________________________________________________________________
+____________________________________________________________________________________
+____________________________________________________________________________________
+____________________________________________________________________________________
+____________________________________________________________________________________
+____________________________________________________________________________________
+____________________________________________________________________________________
+____________________________________________________________________________________
+____________________________________________________________________________________
+____________________________________________________________________________________
+
